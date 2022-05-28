@@ -13,6 +13,10 @@ These files do not need to be run in Yarn or NPM in order to work. Simply copy t
 This project runs fine. There was no JavaScript or PHP code used, thus information entered into the input box will not be sent anywhere. It's basically a mockup.
 
 
+## Live Version
+To view the live version of this code, please check it out on CodePen ( https://codepen.io/E-Benny/pen/LYOXKRP )
+
+
 ## Author
 
 Jonthan Bennett (E-BENNNY).
