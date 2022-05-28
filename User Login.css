@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:ital@1&family=Poppins:ital@1&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.container {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  top: 50%;
+  border: 1px solid;
+  background: linear-gradient(to bottom right, #3333ff 0%, #6600ff 100%);
+  color: white;
+  height: 100vh;
+}
+
+.header {
+  font-family: 'Cormorant', serif;
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+input {
+  display: flex;
+  position: relative;
+  flex-display: column;
+  align-items: center;
+  justify-content: center;
+  width: 400px;
+  height: 35px;
+  border-radius: 15px;
+  padding-left: 25px;
+}
+
+.forgot {
+  margin-right: -250px;
+  font-size: 22px;
+  color: lime;
+  cursor: pointer;
+}
+
+button {
+  width: 400px;
+  height: 35px;
+  background: linear-gradient(to top right, #0000ff 0%, #3399ff 100%);
+  color: white;
+  cursor: pointer;
+  border-radius: 15px;
+  border-style: none;
+}
+
+button:hover {
+  background: linear-gradient(to top right, #0000ff 0%, #66ccff 100%);
+}
+
+a {
+  color: lime;
+  text-decoration: none;
+}
+
+.facebook {
+  margin-bottom: 20px;
+  margin-top: 20px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 27px
+}
+
+
+
